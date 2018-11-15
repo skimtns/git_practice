@@ -5,7 +5,5 @@ end
 def end 
   puts 'this is where i ended'
 end 
-
-def end
-  puts 'more practice'
-end 
+ 
+puts "practice git commands"
