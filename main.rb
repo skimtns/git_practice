@@ -6,4 +6,4 @@ def end
   puts 'this is where i ended'
 end 
  
-puts "practice git commands"
+puts "practice git"
